@@ -6,7 +6,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Docs site](https://docs.verus.io) - Documentation
 - [Community wiki](https://wiki.verus.io) - Howtos and other useful information
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
-- [Verus Countdowns](countdown.verus.io) - Countdowns to block reward halvings and other milestones
+- [Verus Countdowns](https://countdown.verus.io) - Countdowns to block reward halvings and other milestones
 
 ## Repositories
 - [Main Verus Repository](https://github.com/VerusCoin/VerusCoin)
@@ -55,6 +55,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 ## History/Receipts
 Links to github release announcements, maybe with accompanying medium articles about problems we solved (and the dates we solved them)
 - [Bitcoin Talk Release Announcement](https://bitcointalk.org/index.php?topic=4070404.0) - The initial public announcement about Verus before mining/staking began.
+- [Verus Wins Inspiration Award from Fidelity's Center for Applied Technology](https://medium.com/veruscoin/fidelitys-center-for-applied-technology-recognizes-the-verus-protocol-with-its-inspiration-award-f7843e0c2823)
 
 
 
