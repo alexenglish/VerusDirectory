@@ -30,7 +30,8 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [zk-SNARK Privacy and a Holistic Approach to ASICs](https://verus.io/papers/VerusPhaseI.pdf) - A paper detailing the Verus approach to maintaining long-term decentralization and ASIC-resistance.
 - [Building dApps at Any Scale](https://verus.io/papers/Building_dApps_at_Any_Scale.pdf) - A booklet giving an overview of the functionality offered in the Verus protocol and how App developers interface with the blockchain via API (no smart contracts).
 
-## Price aggregators
+## Price Aggregators and Verus Liquidity Pool Market Info
+- [VerusMarkets](https://verusmarkets.com/) - Information about decentralized on-chain currency pricing and volume, liquidity pool reserves, TVL, etc.
 - [Verus on CoinPaprika](https://coinpaprika.com/coin/vrsc-verus-coin/)
 - [Verus on CoinGecko](https://www.coingecko.com/en/coins/verus-coin)
 - [Verus on CoinMarketCap](https://coinmarketcap.com/currencies/veruscoin/)
@@ -69,7 +70,7 @@ Community meeting summary notes
 Exchanges
 
 ID marketplace website
-
+Cli Tools (englal, oink, hellcatz, quipacorn)
 
 Verus Market Data Visualizers
 
