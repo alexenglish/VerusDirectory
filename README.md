@@ -8,6 +8,10 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
 - [Verus Countdowns](countdown.verus.io) - Countdowns to block reward halvings and other milestones
 
+## Repositories
+- [Main Verus Repository](https://github.com/VerusCoin/VerusCoin)
+- [VerusCoin GitHub](https://github.com/orgs/VerusCoin/repositories) - The (generally accepted as) canonical repositories of many Verus ecosystem/community projects
+
 ## Communities
 - [Discord](https://verus.io/discord) - This is the primary and most active place to interface with the Verus Community
 - [Verus Subreddit](https://reddit.com/r/VerusCoin)
@@ -20,10 +24,11 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Verus Mobile for Apple](https://apps.apple.com/en/app/verus-mobile/id6447361908)
 - [Paper Wallet Generator](paperwallet.verus.io) - Follow the instructions to [download for offline use](https://paperwallet.verus.io/VerusPaperWallet.zip) in order to use this securely
 
-## Papers
+## Papers and Literature
 - [Verus Vision Paper](https://verus.io/papers/VerusVision.pdf) - Published in 2018 shortly after the mainnet Verus launch, the Vision Paper outlines the vision of the founders for what the community could build. The vision has been realized and all of the applications and use-cases discussed in the Vision Paper can now be built using features live in the Verus protocol on mainnet.
 - [Proof of Power Paper](https://verus.io/papers/VerusPoP.pdf) - A paper detailing how the Verus consensus mechanism, Proof-of-Power (PoP), works and how it provides provable resistance to 51% hash attacks.
 - [zk-SNARK Privacy and a Holistic Approach to ASICs](https://verus.io/papers/VerusPhaseI.pdf) - A paper detailing the Verus approach to maintaining long-term decentralization and ASIC-resistance.
+- [Building dApps at Any Scale](https://verus.io/papers/Building_dApps_at_Any_Scale.pdf) - A booklet giving an overview of the functionality offered in the Verus protocol and how App developers interface with the blockchain via API (no smart contracts).
 
 ## Price aggregators
 - [Verus on CoinPaprika](https://coinpaprika.com/coin/vrsc-verus-coin/)
@@ -61,6 +66,7 @@ Community meeting summary notes
 
 (Link to another markdown document with links to all the specific interviews, explainers, and other videos about Verus that might be relevant to list)
 
+Exchanges
 
 ID marketplace website
 
