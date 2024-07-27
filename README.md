@@ -82,6 +82,7 @@ ID marketplace website
 Cli Tools (englal, oink, hellcatz, quipacorn)
 
 Verus Market Data Visualizers
+https://cryptodashboard.faldt.net/
 
 ## Mining Pools
 pool.verus.io
