@@ -7,6 +7,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Community wiki](https://wiki.verus.io) - Howtos and other useful information
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
 - [Verus Countdowns](https://countdown.verus.io) - Countdowns to block reward halvings and other milestones
+- [Secure Services Setup](https://github.com/alexenglish/SecureVerusSetup) - Security recommendations for the secure setup of systems for running Verus
 
 ## Repositories
 - [Main Verus Repository](https://github.com/VerusCoin/VerusCoin)
@@ -47,7 +48,12 @@ This is a community-maintained list of resources for the Verus community. It is 
 
 ## Verus Ethereum Bridge
 - [Verus Ethereum Bridge Web Interface](https://eth.verusbridge.io/) - Web interface for using MetaMask or similar Ethereum wallets with the Verus-Ethereum Bridge
+- [Verus Ethereum Bridge Delegator Contract](https://etherscan.io/address/0x71518580f36feceffe0721f06ba4703218cd7f63) -
+- [Bridgekeeper](https://github.com/veruscoin/verusbridgekeeper) - Bridgekeeper is the software communication tool that enables Verus and the Ethereum smart contract partial implementation of the Verus Internet Protocol to communicate with eachother, exchainging network proof data and bundled transaction imports/exports. Solo miners and stakers can configure and run bridgekeeper for chances to be rewarded for submitting this data to the Verus network. Mining pool operators are encouraged to run bridgekeeper, and do so on behalf of their miners. Bridgekeeper is built into Verus Desktop.
 - The Verus Mobile wallet is the best user experience for utilizing the Verus-Ethereum bridge
+
+## Verus Testnet (vrsctest)
+- [Verus Testnet Ethereum Sepolia Testnet Bridge Web Interface](https://ethbridge.verustest.net/) - Web interface for using MetaMask or similar Ethereum wallets with the Verus Testnet Bridge to the Ethereum Sepolia Testnet
 
 ## Branding/Marketing
 - [Media Assets Repo](https://github.com/VerusCoin/Media-Assets) - Branding information and assets, images for use in social and traditional media.
