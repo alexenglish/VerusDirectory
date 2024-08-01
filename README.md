@@ -23,19 +23,29 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Verus CLI Wallet/Daemon](https://github.com/VerusCoin/VerusCoin/releases/latest) - For advanced users, application developers, service operators.
 - [Verus Mobile for Android](https://play.google.com/store/apps/details?id=org.autonomoussoftwarefoundation.verusmobile.android&hl=en&gl=US)
 - [Verus Mobile for Apple](https://apps.apple.com/en/app/verus-mobile/id6447361908)
-- [Paper Wallet Generator](paperwallet.verus.io) - Follow the instructions to [download for offline use](https://paperwallet.verus.io/VerusPaperWallet.zip) in order to use this securely
+- [Verus Paper Wallet Generator](paperwallet.verus.io) - Follow the instructions to [download for offline use](https://paperwallet.verus.io/VerusPaperWallet.zip) in order to use this securely
 
 ## Papers and Literature
 - [Verus Vision Paper](https://verus.io/papers/VerusVision.pdf) - Published in 2018 shortly after the mainnet Verus launch, the Vision Paper outlines the vision of the founders for what the community could build. The vision has been realized and all of the applications and use-cases discussed in the Vision Paper can now be built using features live in the Verus protocol on mainnet.
 - [Proof of Power Paper](https://verus.io/papers/VerusPoP.pdf) - A paper detailing how the Verus consensus mechanism, Proof-of-Power (PoP), works and how it provides provable resistance to 51% hash attacks.
-- [zk-SNARK Privacy and a Holistic Approach to ASICs](https://verus.io/papers/VerusPhaseI.pdf) - A paper detailing the Verus approach to maintaining long-term decentralization and ASIC-resistance.
+- [zk-SNARK Privacy and a Holistic Approach to ASICs Paper](https://verus.io/papers/VerusPhaseI.pdf) - A paper detailing the Verus approach to maintaining long-term decentralization and ASIC-resistance.
 - [Building dApps at Any Scale](https://verus.io/papers/Building_dApps_at_Any_Scale.pdf) - A booklet giving an overview of the functionality offered in the Verus protocol and how App developers interface with the blockchain via API (no smart contracts).
 
 ## Price Aggregators and Verus Liquidity Pool Market Info
 - [VerusMarkets](https://verusmarkets.com/) - Information about decentralized on-chain currency pricing and volume, liquidity pool reserves, TVL, etc.
-- [Verus on CoinPaprika](https://coinpaprika.com/coin/vrsc-verus-coin/)
-- [Verus on CoinGecko](https://www.coingecko.com/en/coins/verus-coin)
-- [Verus on CoinMarketCap](https://coinmarketcap.com/currencies/veruscoin/)
+- [Verus Crypto Dashboard](https://cryptodashboard.faldt.net/) - Dashboard with stats, prices, tools, etc.
+- [Verus Raw Liquidity Pool Data](https://raw.verus.trading/) - Barebones, raw liquidity pool reserve data
+- [WhatIf Hypothetical Trade Calculator](https://whatif.verus.trading/) - Plug in a proposed conversion and this tool will give estimated pricing.
+- [Verus on CoinPaprika](https://coinpaprika.com/coin/vrsc-verus-coin/) - Price and volume information do not account for any on-chain volume or prices yet.
+- [Verus on CoinGecko](https://www.coingecko.com/en/coins/verus-coin) - Price and volume information do not account for any on-chain volume or prices yet.
+- [Verus on CoinMarketCap](https://coinmarketcap.com/currencies/veruscoin/) - Price and volume information do not account for any on-chain volume or prices yet.
+
+## Exchanges
+As a general rule, the Verus community values decentralization, self-custody, and permissionlessness. Exchanges listed here are not necessarily endorsed by any contributors to this wiki. Do not mine to an exchange address, you'll have a bad time and since you've been warned people aren't likely to bend over backwards to help. Don't store your coins on an exchange, the Verus community has had several bad experiences with exchanges getting hacked, rugpulled, or simply providing poor support, locking funds up for months or more.
+- The largest source of liquidity for VRSC is in on-chain liquidity baskets. The best path to take advantage of this is to bridge assets (like DAI, MKR, ETH) over to Verus from Ethereum and convert them into VRSC using the liquidity baskets.
+- [SafeTrade](https://safe.trade/)
+- [Trade Ogre](https://tradeogre.com/)
+- [Komodo Wallet](https://atomicdex.io/en/)
 
 ## Verus ID Tools
 - [Verus ID Lookup Tool](https://verus.io/verusid-lookup) - Look up any Verus ID to see its properties. This tool also includes a renderer for the first fully decentralized, verifiable, on-chain social-media profiles in Verus IDs, which will automatically render if that content is present in the profile (look up Mike@ for an example).
@@ -82,19 +92,17 @@ Community meeting summary notes
 
 (Link to another markdown document with links to all the specific interviews, explainers, and other videos about Verus that might be relevant to list)
 
-Exchanges
+
 
 ID marketplace website
 Cli Tools (englal, oink, hellcatz, quipacorn)
 
-Verus Market Data Visualizers
-https://cryptodashboard.faldt.net/
-
+## Mining software
 ## Mining Pools
-pool.verus.io
-verus.farm
-luckpool
-...
+pool.verus.io  
+verus.farm  
+luckpool  
+...  
 
 ## PBaaS Chains
 (Links to other markdown documents about PBaaS chains, each with links to where official information can be found, where the explorers, interfaces, communities, etc., can be found)
