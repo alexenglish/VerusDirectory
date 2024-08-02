@@ -4,6 +4,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 ## Informational Sites
 - [verus.io](https://verus.io) - Broad overview of information about Verus
 - [Docs site](https://docs.verus.io) - Documentation
+- [Community Meeting Summaries](https://medium.com/@vince.vrsc) - Summarized notes from the twice-weekly Verus community voice meetings on Discord - usually a mix of marketing, updates on various efforts, and tech-talk
 - [Community wiki](https://wiki.verus.io) - Howtos and other useful information
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
 - [Verus Countdowns](https://countdown.verus.io) - Countdowns to block reward halvings and other milestones
