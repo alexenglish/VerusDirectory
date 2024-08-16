@@ -51,6 +51,7 @@ As a general rule, the Verus community values decentralization, self-custody, an
 ## Verus ID Tools
 - [Verus ID Lookup Tool](https://verus.io/verusid-lookup) - Look up any Verus ID to see its properties. This tool also includes a renderer for the first fully decentralized, verifiable, on-chain social-media profiles in Verus IDs, which will automatically render if that content is present in the profile (look up Mike@ for an example).
 - [Verus ID Signature Verification](https://verus.io/signatures) - Verify a Verus ID signature for messages, hashes, or files.
+- [VerusIDs](https://verusids.com) - Stats, info, and a great browser for on-chain marketplace transactions for Verus IDs.
 - [VaultAlert](https://vaultalert.net) - Look up the Verus Vault lock/unlock status of Verus IDs
 
 ## Verus Blockchain Explorers
