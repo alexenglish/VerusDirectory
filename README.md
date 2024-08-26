@@ -40,6 +40,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Verus on CoinPaprika](https://coinpaprika.com/coin/vrsc-verus-coin/) - Price and volume information do not account for any on-chain volume or prices yet.
 - [Verus on CoinGecko](https://www.coingecko.com/en/coins/verus-coin) - Price and volume information do not account for any on-chain volume or prices yet.
 - [Verus on CoinMarketCap](https://coinmarketcap.com/currencies/veruscoin/) - Price and volume information do not account for any on-chain volume or prices yet.
+- [Verus Wisdom](https://veruswisdom.com/) - Verus Network stat graphs, recent identity registration browser, marketplace browser, market stats
 
 ## Exchanges
 As a general rule, the Verus community values decentralization, self-custody, and permissionlessness. Exchanges listed here are not necessarily endorsed by any contributors to this wiki. Do not mine to an exchange address, you'll have a bad time and since you've been warned people aren't likely to bend over backwards to help. Don't store your coins on an exchange, the Verus community has had several bad experiences with exchanges getting hacked, rugpulled, or simply providing poor support, locking funds up for months or more.
@@ -88,11 +89,10 @@ Links to github release announcements, maybe with accompanying medium articles a
 
 
 ### Stubs for content to add
-Community Youtube
+[Community Youtube](https://www.youtube.com/@VerusCoinCommunity/videos) - Verus Coin Community YouTube channel - explainers, presentations, community meetings, etc.
 
-Community meeting summary notes
+[Vince on Medium](https://medium.com/@vince.vrsc) - Community meeting notes/summaries
 
-(Link to another markdown document with links to all the specific interviews, explainers, and other videos about Verus that might be relevant to list)
 
 
 
