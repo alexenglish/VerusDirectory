@@ -108,3 +108,5 @@ luckpool
 
 ## PBaaS Chains
 (Links to other markdown documents about PBaaS chains, each with links to where official information can be found, where the explorers, interfaces, communities, etc., can be found)
+[vDex explorer](https://explorer.vdex.to/)
+[vARRR explorer](https://varrrexplorer.piratechain.com)
