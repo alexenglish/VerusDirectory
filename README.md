@@ -45,7 +45,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 ## Exchanges
 As a general rule, the Verus community values decentralization, self-custody, and permissionlessness. Exchanges listed here are not necessarily endorsed by any contributors to this wiki. Do not mine to an exchange address, you'll have a bad time and since you've been warned people aren't likely to bend over backwards to help. Don't store your coins on an exchange, the Verus community has had several bad experiences with exchanges getting hacked, rugpulled, or simply providing poor support, locking funds up for months or more.
 - The largest source of liquidity for VRSC is in on-chain liquidity baskets. The best path to take advantage of this is to bridge assets (like DAI, MKR, ETH) over to Verus from Ethereum and convert them into VRSC using the liquidity baskets.
-- [SafeTrade](https://safe.trade/)
+- [SafeTrade](https://safe.trade/) - Safetrade offers DAI and ETH (vETH) withdrawals on the Verus network, this is an inexpensive and fast way to bring value into Verus for use in the ecosystem.
 - [Trade Ogre](https://tradeogre.com/)
 - [Komodo Wallet](https://atomicdex.io/en/)
 
@@ -84,27 +84,27 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [vARRR](https://piratechain.com/v-arrr/) - the first PBaaS Chain on Verus mainnet launches on Sun Mar 31, 2024 (Pacific Time)
 - [Verus Wins Inspiration Award from Fidelity's Center for Applied Technology](https://medium.com/veruscoin/fidelitys-center-for-applied-technology-recognizes-the-verus-protocol-with-its-inspiration-award-f7843e0c2823)
 
+## Bounty information
+- [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
+
+## Mining Pools
+- [Community-maintained list of Verus mining pools](ttps://docs.verus.io/economy/start-mining.html#mining-pools)
+- [Verus Community Mining Pool](https://poolweb.verus.io/) - Proceeds from this pool, a 5% fee, go to support the Verus Vision through bounties and community costs
 
 
 
 
-### Stubs for content to add
+
+# Stubs for content/resources
 [Community Youtube](https://www.youtube.com/@VerusCoinCommunity/videos) - Verus Coin Community YouTube channel - explainers, presentations, community meetings, etc.
 
 [Vince on Medium](https://medium.com/@vince.vrsc) - Community meeting notes/summaries
 
 
-
-
-ID marketplace website
-Cli Tools (englal, oink, hellcatz, quipacorn)
+## Cli Tools (englal, asher, oink, hellcatz, quipacorn)
 
 ## Mining software
-## Mining Pools
-pool.verus.io  
-verus.farm  
-luckpool  
-...  
+
 
 ## PBaaS Chains
 (Links to other markdown documents about PBaaS chains, each with links to where official information can be found, where the explorers, interfaces, communities, etc., can be found)
