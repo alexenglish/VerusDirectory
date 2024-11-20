@@ -87,6 +87,7 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [Bridging Done Right — Verus-Ethereum Bridge Launches Now!](https://medium.com/veruscoin/bridging-done-right-verus-ethereum-bridge-launches-now-1b2ca42939b2) - Verus Ethereum Bridge launches Mainnet to Mainnet
 - [vARRR](https://piratechain.com/v-arrr/) - the first PBaaS Chain on Verus mainnet launches on Sun Mar 31, 2024 (Pacific Time)
 - [Verus Wins Inspiration Award from Fidelity's Center for Applied Technology](https://medium.com/veruscoin/fidelitys-center-for-applied-technology-recognizes-the-verus-protocol-with-its-inspiration-award-f7843e0c2823)
+- [Large tBTC Mint sent to Verus Network](https://x.com/TheTNetwork/status/1842668457449726102) - At the time this was supposed to be the second largest mint of tBTC, which went straight into the Verus-Ethereum bridge to be used on the Verus network.
 
 ## Highly Useful Social Posts/Threads
 - [App design](https://x.com/BizMunny/status/1807896245333119119) - Description of the approach for building a complex app on Verus
