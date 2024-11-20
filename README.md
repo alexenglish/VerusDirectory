@@ -54,6 +54,7 @@ As a general rule, the Verus community values decentralization, self-custody, an
 - [Verus ID Signature Verification](https://verus.io/signatures) - Verify a Verus ID signature for messages, hashes, or files.
 - [VerusIDs](https://verusids.com) - Stats, info, and a great browser for on-chain marketplace transactions for Verus IDs.
 - [VaultAlert](https://vaultalert.net) - Look up the Verus Vault lock/unlock status of Verus IDs
+- [Boilerplate VerusID Login Code](https://github.com/monkins1010/verusid-login-template) - Sample code for a minimal implementation of a VerusID login for a web service.
 
 ## Verus Blockchain Explorers
 - [Iquidous](https://explorer.verus.io)
