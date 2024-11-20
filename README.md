@@ -1,7 +1,7 @@
 # VerusDirectory
 This is a community-maintained list of resources for the Verus community. It is intended to be a quick way to find or re-find tools and information, to catalog receipts of what the Verus community has done, and provide a consolidated location for new community members that might like to deep-dive. Links and information appearing here are intended to be helpful, but should not be considered an endoresement by the owner or contributors of this repository. Everything in the Verus ecosystem is operated by independent community members.
 
-## Informational Sites
+## General Information and Documentation
 - [verus.io](https://verus.io) - Broad overview of information about Verus
 - [Docs site](https://docs.verus.io) - Documentation
 - [Dev Docs](https://monkins1010.github.io/) - Developer documentation, examples, etc., under construction
@@ -9,11 +9,10 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Community wiki](https://wiki.verus.io) - Howtos and other useful information
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
 - [Verus Countdowns](https://countdown.verus.io) - Countdowns to block reward halvings and other milestones
-- [Secure Services Setup](https://github.com/alexenglish/SecureVerusSetup) - Security recommendations for the secure setup of systems for running Verus
 
 ## Repositories
 - [Main Verus Repository](https://github.com/VerusCoin/VerusCoin)
-- [VerusCoin GitHub](https://github.com/orgs/VerusCoin/repositories) - The (generally accepted as) canonical repositories of many Verus ecosystem/community projects
+- [VerusCoin GitHub](https://github.com/orgs/VerusCoin/repositories) - The (generally accepted by the community as) canonical repositories of many Verus ecosystem/community projects
 
 ## Communities
 - [Discord](https://verus.io/discord) - This is the primary and most active place to interface with the Verus Community
@@ -85,27 +84,30 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [vARRR](https://piratechain.com/v-arrr/) - the first PBaaS Chain on Verus mainnet launches on Sun Mar 31, 2024 (Pacific Time)
 - [Verus Wins Inspiration Award from Fidelity's Center for Applied Technology](https://medium.com/veruscoin/fidelitys-center-for-applied-technology-recognizes-the-verus-protocol-with-its-inspiration-award-f7843e0c2823)
 
-## Bounty information
+## Highly Useful Social Posts/Threads
+- [App design](https://x.com/BizMunny/status/1807896245333119119) - Description of the approach for building a complex app on Verus
+- [Currency Launch Walkthrough](https://x.com/solidfreez/status/1650941362991407107) - Walkthrough of all steps for creating and trading a currency on Verus using the command-line interface.
+
+## Bounty Information
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
 
 ## Mining Pools
 - [Community-maintained list of Verus mining pools](ttps://docs.verus.io/economy/start-mining.html#mining-pools)
 - [Verus Community Mining Pool](https://poolweb.verus.io/) - Proceeds from this pool, a 5% fee, go to support the Verus Vision through bounties and community costs
 
+## Node/Service Administration Information
+- [Verus Services Setup](https://github.com/VerusCoin/VerusServicesSetup) - Guides for running services on Verus such as RPC API endpoints, explorers, mining pools, Electrum servers for light wallets, etc.
+- [Secure Services Setup](https://github.com/alexenglish/SecureVerusSetup) - Security recommendations for the secure setup of systems for running Verus
 
+# Community Socials
+- [Community Youtube](https://www.youtube.com/@VerusCoinCommunity/videos) - Verus Coin Community YouTube channel - explainers, presentations, community meetings, etc.
+- [Vince on Medium](https://medium.com/@vince.vrsc) - Community meeting notes/summaries
 
-
-
-# Stubs for content/resources
-[Community Youtube](https://www.youtube.com/@VerusCoinCommunity/videos) - Verus Coin Community YouTube channel - explainers, presentations, community meetings, etc.
-
-[Vince on Medium](https://medium.com/@vince.vrsc) - Community meeting notes/summaries
-
-
-## Cli Tools (englal, asher, oink, hellcatz, quipacorn)
+## Command-Line Tools (englal, asher, oink, hellcatz, quipacorn)
+- [Verus-CLI-Tools](https://github.com/Oink70/Verus-CLI-tools) - Useful scripts for automation, metrics, and helpers
+- [VerusExtras](https://github.com/alexenglish/VerusExtras) - Useful scripts for automation, metrics, and helpers
 
 ## Mining software
-
 
 ## PBaaS Chains
 (Links to other markdown documents about PBaaS chains, each with links to where official information can be found, where the explorers, interfaces, communities, etc., can be found)
