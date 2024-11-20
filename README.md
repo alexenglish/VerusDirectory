@@ -86,8 +86,10 @@ Links to github release announcements, maybe with accompanying medium articles a
 
 ## Highly Useful Social Posts/Threads
 - [App design](https://x.com/BizMunny/status/1807896245333119119) - Description of the approach for building a complex app on Verus
-- [Currency Launch Walkthrough](https://x.com/solidfreez/status/1650941362991407107) - Walkthrough of all steps for creating and trading a currency on Verus using the command-line interface.
+- [Currency Launch Walkthrough](https://x.com/solidfreez/status/1650941362991407107) - Walkthrough of all steps for creating and trading a token on Verus using the command-line interface.
 - [VIP (Verus Internet Protocol)](https://x.com/MikeToutonghi/status/1653201570719485953) - Overview of how the trustless, non-custodial, permissionless, decentralized cross-chain VIP protocol works.
+- [Pure Chain Launch](https://x.com/M_eyse/status/1770124583376409026) - Walkthrough of the currency definition for the mainnet Pure liquidity pool.
+- [Verus Staking Basics](https://x.com/M_eyse/status/1566890914743783426) - A comparison of staking on Verus vs Ethereum.
 
 ## Bounty Information
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
@@ -112,5 +114,6 @@ Links to github release announcements, maybe with accompanying medium articles a
 
 ## PBaaS Chains
 (Links to other markdown documents about PBaaS chains, each with links to where official information can be found, where the explorers, interfaces, communities, etc., can be found)
-[vDex explorer](https://explorer.vdex.to/)
-[vARRR explorer](https://varrrexplorer.piratechain.com)
+- [vDex explorer](https://explorer.vdex.to/)
+- [vARRR explorer](https://varrrexplorer.piratechain.com)
+- [vARRR Announcement](https://x.com/PirateChain/status/1770148985422196842)
