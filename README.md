@@ -96,6 +96,25 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [Verus Staking Basics](https://x.com/M_eyse/status/1566890914743783426) - A comparison of staking on Verus vs Ethereum.
 - [Merge Mining First Look](https://x.com/oink1970/status/1780296369741205674) - Some basics about getting started merge mining with a pool on Verus.
 
+## Recommended (solely by me; recommendation is not an endorsement of all content posted) Community Socials (in no particular order)
+- [VerusCoin](https://x.com/veruscoin)
+- [VerusCommunity](https://x.com/veruscommunity)
+- [VerusProtocol](https://x.com/VerusProtocol)
+- [Verus Whale Alerts](https://x.com/VerusWhale)
+- [miketout / Mike Toutonghi](https://x.com/miketoutonghi)
+- [englal / Lex English](https://x.com/solidfreez)
+- [Monkins / Chris](https://x.com/monkins1010)
+- [Meyse / Max](https://x.com/M_eyse)
+- [Valu.earth / Nicholas Lyons](https://x.com/lyonsnicholas1)
+- [DCAL4](https://x.com/Gamevid4)
+- [BizMunny](https://x.com/BizMunny)
+- [Oink](https://x.com/oink1970)
+- [Joe](https://x.com/joefromthehills)
+- [Tommy Faldt Pedersen](https://x.com/tommyfpedersen)
+- [Lost](https://x.com/quixotic_777)
+- [Brainchild](https://x.com/brainchildish)
+- [Dude](https://x.com/devdudeio)
+
 ## Bounty Information
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
 
