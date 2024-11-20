@@ -19,6 +19,9 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Verus Subreddit](https://reddit.com/r/VerusCoin)
 - [Telegram](https://t.me/veruscommunity)
 
+## Built on Verus
+- [ValuVerse Metaverse](https://live.valuverse.net/auth) - ValuVerse Metaverse environment. Log in with a .valuid Verus ID (currently offered for free on the Verus Discord in the valuverse channel), explore, have meetings, transact. Under construction and much more being built.
+
 ## Wallets
 - [Verus Desktop](https://verus.io/wallet/desktop) - Cross-platform multicurrency GUI desktop wallet for a graphical experience running native or lite wallets for Verus, PBaaS chains, and other blockchains.
 - [Verus CLI Wallet/Daemon](https://github.com/VerusCoin/VerusCoin/releases/latest) - For advanced users, application developers, service operators.
