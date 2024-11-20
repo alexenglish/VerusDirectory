@@ -94,6 +94,7 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [VIP (Verus Internet Protocol)](https://x.com/MikeToutonghi/status/1653201570719485953) - Overview of how the trustless, non-custodial, permissionless, decentralized cross-chain VIP protocol works.
 - [Pure Chain Launch](https://x.com/M_eyse/status/1770124583376409026) - Walkthrough of the currency definition for the mainnet Pure liquidity pool.
 - [Verus Staking Basics](https://x.com/M_eyse/status/1566890914743783426) - A comparison of staking on Verus vs Ethereum.
+- [Merge Mining First Look](https://x.com/oink1970/status/1780296369741205674) - Some basics about getting started merge mining with a pool on Verus.
 
 ## Bounty Information
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
