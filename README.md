@@ -87,6 +87,7 @@ Links to github release announcements, maybe with accompanying medium articles a
 ## Highly Useful Social Posts/Threads
 - [App design](https://x.com/BizMunny/status/1807896245333119119) - Description of the approach for building a complex app on Verus
 - [Currency Launch Walkthrough](https://x.com/solidfreez/status/1650941362991407107) - Walkthrough of all steps for creating and trading a currency on Verus using the command-line interface.
+- [VIP (Verus Internet Protocol)](https://x.com/MikeToutonghi/status/1653201570719485953) - Overview of how the trustless, non-custodial, permissionless, decentralized cross-chain VIP protocol works.
 
 ## Bounty Information
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
