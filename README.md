@@ -120,8 +120,9 @@ Links to github release announcements, maybe with accompanying medium articles a
 - [Solana Bridge Technical Overview](https://monkins1010.github.io/communityfeedback/bounties/solana/) - A summary of the technical needs for the development of a Solana bridge.
 
 ## Mining Pools
+- [Verus Mining Pool Stats](https://miningpoolstats.stream/veruscoin) - Stats about the recent activity of mining pools
 - [Community-maintained list of Verus mining pools](ttps://docs.verus.io/economy/start-mining.html#mining-pools)
-- [Verus Community Mining Pool](https://poolweb.verus.io/) - Proceeds from this pool, a 5% fee, go to support the Verus Vision through bounties and community costs
+- [Verus Community Mining Pool](https://poolweb.verus.io/) - Proceeds from this pool's 5% fee support the development of Verus and the Verus ecosystem
 
 ## Node/Service Administration Information
 - [Verus Services Setup](https://github.com/VerusCoin/VerusServicesSetup) - Guides for running services on Verus such as RPC API endpoints, explorers, mining pools, Electrum servers for light wallets, etc.
