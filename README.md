@@ -9,6 +9,7 @@ This is a community-maintained list of resources for the Verus community. It is 
 - [Community wiki](https://wiki.verus.io) - Howtos and other useful information
 - [Medium Blog](https://medium.com/veruscoin) - Medium blog with informative articles
 - [Verus Countdowns](https://countdown.verus.io) - Countdowns to block reward halvings and other milestones
+- [Halving and Block Reward Information](https://docs.verus.io/economy/#staking-ecosystem) - Historical and future block reward info can be found here (along with other information)
 
 ## Repositories
 - [Main Verus Repository](https://github.com/VerusCoin/VerusCoin)
